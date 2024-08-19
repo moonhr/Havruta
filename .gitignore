@@ -9,8 +9,7 @@
 # testing
 /coverage
 
-# next.js
-/.next/
+# next.jsㄴ
 /out/
 
 # production
